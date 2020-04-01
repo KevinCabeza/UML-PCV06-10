@@ -1,4 +1,4 @@
-@startuml
+@startuml Ejer1
 left to right direction
 skinparam packageStyle rectangle
 actor socio
